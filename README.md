@@ -58,5 +58,4 @@ This system goes beyond dictionary lookups by leveraging BERT’s bidirectional 
 
 ---
 
-## 📂 Project Structure
 
