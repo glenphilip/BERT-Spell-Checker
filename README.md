@@ -52,8 +52,6 @@ This system goes beyond dictionary lookups by leveraging BERT’s bidirectional 
 - **Core:** PyTorch, Hugging Face Transformers
 - **Base Model:** `google-bert/bert-base-cased`
 - **PEFT:** `peft` (LoRA)
-- **Backend:** Flask (+ optional ngrok)
-- **Frontend:** HTML, CSS, JavaScript
 - **Data/Utils:** `pandas`, `NLTK`, `datasets`, `evaluate`, `seqeval`, `tqdm`, `contractions`, `pattern`
 
 ---
